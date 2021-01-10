@@ -1,7 +1,7 @@
 
 # Parking Spot Finding AI
 
-
+An AI algorithm that finds the available parking spots
 
 ## Summary
 
