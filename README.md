@@ -1,7 +1,7 @@
 
-# Project Title
+# Parking Spot Finding AI
 
-Parking Spot Finding AI
+
 
 ## Summary
 
